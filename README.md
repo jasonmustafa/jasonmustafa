@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jason Mustafa</h1>
+<h1 align="center">Hi 👋🏼, I'm Jason Mustafa</h1>
 <h3 align="center">A new grad from Rutgers University pursuing a career in software development!</h3>
 
 <ul>
